@@ -1,4 +1,4 @@
-## Practical Title: Building a CRUD REST API with Node.js and Express
+## Practical 1: Building a CRUD REST API with Node.js and Express
 
 ## Practice Duration: 2 hours
 

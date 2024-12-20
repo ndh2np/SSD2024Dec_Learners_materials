@@ -1,8 +1,8 @@
-## Practical 4: Enhanced Books API with MSSQL Integration
+## Practical 2: Books API with MSSQL Database Integration
 
 **Objective:**
 
-This practical session builds upon the Books API developed in Practical 3. Our goal is to enhance it by connecting to a Microsoft SQL Server Express database via the `mssql` Node.js package. This will enable our API to perform CRUD (Create, Read, Update, Delete) operations on book data using a persistent data store.
+This practical session builds upon the Books API. Our goal is to enhance it by connecting to a Microsoft SQL Server Express database via the `mssql` Node.js package. This will enable our API to perform CRUD (Create, Read, Update, Delete) operations on book data using a persistent data store.
 
 **Tasks:**
 
@@ -42,4 +42,4 @@ This practical session builds upon the Books API developed in Practical 3. Our g
    - Feel free to read up about the `mssql` package (e.g., stored procedures, connection pooling).
    - Adhere to security best practices when connecting to a database and handling user data (e.g. using environmental variables .env file).
 
-This brief outlines the key aspects of Practical 4, guiding you through the process of enhancing your Books API with SQL Server integration.
+This brief outlines the key aspects of the practical, guiding you through the process of enhancing your Books API with SQL Server integration.
