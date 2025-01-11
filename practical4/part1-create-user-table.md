@@ -16,7 +16,7 @@ CREATE TABLE Users (
 
 **Explanation:**
 
-- The script checks if the `Users` table already exists. If not, it creates the table with the following columns:
+- The script creates the table with the following columns:
   - `id`: An integer column with auto-incrementing primary key behavior for unique user identification.
   - `username`: A varchar column with a maximum length of 50 characters, marked as `NOT NULL` and `UNIQUE` for distinct usernames.
   - `email`: A varchar column with a maximum length of 100 characters, marked as `NOT NULL` and `UNIQUE` for distinct email addresses.
