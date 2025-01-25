@@ -1,8 +1,8 @@
-**Practical 8: Ensuring API Quality with Unit Testing**
+## Practical 8: Ensuring API Quality with Unit Testing
 
 **Introduction:**
 
-In previous practicals, you have built a functional library API. This practical, we shift our focus to the crucial practice of unit testing. Unit testing helps ensure the reliability and maintainability of your API by verifying that individual components work as expected in isolation. This skill will be highly valuable for Back-end Development.
+In previous practicals, you have built a functional Polytechnic library API. This practical, we shift our focus to the crucial practice of unit testing. Unit testing helps ensure the reliability and maintainability of your API by verifying that individual components work as expected in isolation. This skill will be highly valuable for Back-end Development.
 
 **Objectives:**
 

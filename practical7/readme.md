@@ -1,8 +1,8 @@
-## Practica1 7 - Polytechnic Library API - Extended Practical
+## Practical 7 - Extending the Polytechnic Library API with documentation using Swagger
 
 **Learning Outcomes:**
 
-By successfully completing this extended practical, you will gain valuable skills in:
+By successfully completing this practical, you will gain valuable skills in:
 
 - Creating clear and comprehensive API documentation using Swagger, enhancing the usability and maintainability of your future APIs.
 
